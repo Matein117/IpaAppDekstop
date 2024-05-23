@@ -7,7 +7,7 @@ When you unzipp the folder you should to install a virtual enviroment
    `python -m venv env`
   ![image](https://github.com/Matein117/IpaAppDekstop/assets/89878803/55b473f6-0db1-41c8-bca9-b22d217669ff)
 
-- After that you will get an extra folder in your project where we are going to run and istall some libraries.
+- After that you will get an extra folder in your project where we are going to run and install some libraries.
   ![image](https://github.com/Matein117/IpaAppDekstop/assets/89878803/9ab49d1e-8ce4-4d07-b0d8-b61fcf6c5a01)
 
 
