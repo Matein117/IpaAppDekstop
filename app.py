@@ -1,9 +1,8 @@
 import tkinter as tk
 import importlib
-import sys
 import time
 from client.products import ProductsFrame
-  # Assuming ProductsFrame is correctly imported
+
 
 class MainApplication(tk.Tk):
     def __init__(self):

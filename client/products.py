@@ -1,6 +1,6 @@
 import tkinter as tk
 from tkinter import ttk, messagebox
-from app.services.api_products import fetch_all_products, create_product
+from services.api_products import fetch_all_products, create_product
 class ProductsFrame(tk.Frame):
     def __init__(self, root=None):
         super().__init__(root, width=500, height=500,)
